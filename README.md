@@ -15,3 +15,6 @@ There are 4 difficulty levels:
 * **Medium** (random method)
 * **Hard** (probability method - calculates the probability based on your turns)
 * **Impossible** (never win)
+
+# Requirements
+1. **Windows 10**
