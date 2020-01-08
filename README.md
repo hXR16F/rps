@@ -9,12 +9,17 @@
 # Usage
 Launch `Rock, Paper, Scissors.bat` by double-clicking or call it from cmd.
 
-# Difficulty
+# Singleplayer difficulties
 There are 4 difficulty levels:
 * **Easy** (never lose)
 * **Medium** (random method)
 * **Hard** (probability method - calculates the probability based on your turns)
 * **Impossible** (never win)
 
-# Requirements
-1. **Windows 10**
+# Multiplayer
+There are 2 multiplayer modes:
+1. [hotseat](https://en.wikipedia.org/wiki/Hotseat_(multiplayer_mode))
+2. tcp/ip (needs internet connection)
+
+# TCP/IP multiplayer outside LAN
+To make it working outside LAN you have to [port forward](https://portforward.com/) your router (or use something like [hamachi](https://www.vpn.net/) or [ngrok](https://ngrok.com/)).
