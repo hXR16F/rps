@@ -1,5 +1,5 @@
 <p align="center">
-	<b>rps</b>
+	<b>rps - <a href="https://www.youtube.com/watch?v=yAMOK4opB5o">YouTube</a></b>
 	<br>
 	<i>Rock, Paper, Scissors game.</i>
 	<br><br><br>
