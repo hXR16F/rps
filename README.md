@@ -23,3 +23,7 @@ There are 2 multiplayer modes:
 
 # TCP/IP multiplayer outside LAN
 To make it working outside LAN you have to [port forward](https://portforward.com/) your router (or use something like [hamachi](https://www.vpn.net/) or [ngrok](https://ngrok.com/)).
+
+# Donate
+If you support my work or like my projects, you can donate me some money. Thank you 💙\
+BTC: `bc1q9trutvumrfuwrdwj377xd7u2flyp527j6t6qh9`
